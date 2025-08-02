@@ -1,0 +1,20 @@
+Q1: AI-Driven Code Generation Tools
+Benefits:
+Speeds up boilerplate and repetitive coding.
+Reduces cognitive load and context switching.
+Offers real-time suggestions based on natural language prompts.
+Limitations:
+May generate syntactically correct but logically flawed code.
+Can reinforce biases from training data.
+Requires human oversight for security, performance, and readability.
+
+Q2: Supervised vs. Unsupervised Learning in Bug Detection
+Aspect	Supervised Learning	Unsupervised Learning
+Input	Labeled bug data	Unlabeled logs/errors
+Use Case	Classify known bugs	Discover anomalies or unknown patterns
+Example	Predict bug severity	Cluster error logs to detect outliers
+
+Q3: Bias Mitigation in Personalization
+AI personalization can unintentionally exclude or misrepresent user groups.
+Biases in training data (e.g., gender, region, device type) can skew recommendations.
+Mitigation ensures fairness, trust, and inclusivity — especially in diverse user bases like Kenya’s.
