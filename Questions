@@ -18,3 +18,11 @@ Q3: Bias Mitigation in Personalization
 AI personalization can unintentionally exclude or misrepresent user groups.
 Biases in training data (e.g., gender, region, device type) can skew recommendations.
 Mitigation ensures fairness, trust, and inclusivity — especially in diverse user bases like Kenya’s.
+
+📦 Case Study: AIOps in Deployment Pipelines
+AIOps enhances deployment efficiency by:
+Automating anomaly detection: ML models flag unusual patterns in logs or metrics before failures occur.
+Predictive rollbacks: AI forecasts deployment risks and triggers rollbacks proactively.
+Examples:
+Netflix uses ML-enabled chaos engineering to maintain reliability during deployments.
+Google applies AI to optimize Kubernetes-based CI/CD pipelines for resource efficiency.
